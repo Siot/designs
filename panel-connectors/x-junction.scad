@@ -1,4 +1,4 @@
-/* "X" Panel connector generator by Llorenç Garcia 16/10/2024, https://github.com/Siot
+/* "X" Panel connector generator by Llorenç Garcia 16/10/2024, https://github.com/Siot/designs
  *
  * Licensing: 
  * This user content is licensed under a
